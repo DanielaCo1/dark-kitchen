@@ -23,4 +23,5 @@ const Food = [
         picture: "assets\images\maki-avocat.png",
         description: "Le maki Avocat est le choix parfait pour un plaisir végétarien, laissez vous séduire par l'onctuosité de l'avocat.",
     },
+    
 ];
